@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kassam Dakhlalah 🌹
-- 🌎 I'm from palestine, and I'm living Dubai, UAE.
+- 🌎 I'm from Palestine, and I'm living Dubai, UAE.
 - 🌱 I’m computer engineering student💻 at ajman university 🎓.
 - 👀 I’m interested in Networking📡, Cybersecurity🐱‍💻 and Hacking👾.
 - 💞️ I’m looking to collaborate on "Cisco", "Amazon" and "Google".
