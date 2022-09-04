@@ -3,4 +3,4 @@
 - 🌱 I’m computer engineering student💻 at ajman university 🎓.
 - 👀 I’m interested in Networking📡, Cybersecurity🐱‍💻 and Hacking👾.
 - 💞️ I’m looking to collaborate on "Cisco", "Amazon" and "Google".
-- 📫 How to reach me, this is my instagram profile🎥: https://www.instagram.com/kassam_99/
+- 📫 How to reach me? This is my instagram profile🎥: https://www.instagram.com/kassam_99/
