@@ -1,4 +1,4 @@
-👋 Hi, I’m Kassam Dakhlalah 🌹
+👋 Hi, I’m Qassam Dakhlalah 🌹
 - 🌎 I'm from Palestine and currently living in Dubai, UAE.
 - 🌱 I’m a computer engineering student 💻 at Ajman University 🎓.
 - 👀 I’m interested in Networking 📡, Cybersecurity 🐱‍💻, and Hacking 👾.
