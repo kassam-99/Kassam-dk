@@ -43,6 +43,14 @@ This repository serves as a hub for my work, including 🛠 penetration testing 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Cryptography](https://img.shields.io/badge/cryptography-%2300A0B0.svg?style=for-the-badge&logo=crypto&logoColor=white)
+![Wireshark](https://img.shields.io/badge/wireshark-%231F69C4.svg?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Network Automation](https://img.shields.io/badge/network%20automation-%2300A9E0.svg?style=for-the-badge&logo=automation&logoColor=white)  
+![Wireless Technologies](https://img.shields.io/badge/wireless%20technologies-%2300A4D1.svg?style=for-the-badge&logo=wifi&logoColor=white)  
+![Digital Forensics](https://img.shields.io/badge/digital%20forensics-%2300A1D8.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)  
+![Social Engineering](https://img.shields.io/badge/social%20engineering-%23F44336.svg?style=for-the-badge&logo=people&logoColor=white)  
+![Network Penetration Testing](https://img.shields.io/badge/network%20penetration%20testing-%230D47A1.svg?style=for-the-badge&logo=hackerrank&logoColor=white)  
+![Penetration Testing](https://img.shields.io/badge/penetration%20testing-%233232C2.svg?style=for-the-badge&logo=key&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kassam-99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
