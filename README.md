@@ -1,5 +1,12 @@
-# 💫 About Me:
-🌎 I'm from Palestine and currently living in Dubai, UAE.<br>🌱 I’m a computer engineering student 💻 at Ajman University 🎓.<br>👀 I’m interested in Networking 📡, Cybersecurity 🐱‍💻, and Hacking 👾.<br>💞️ I’m looking to collaborate with "Cisco," "Amazon," and "Google."
+# 🚀 Welcome to my GitHub repository!
+
+This space showcases my projects, contributions, and experiments in 🔐 cybersecurity, 🛡 ethical hacking, 🔎 reverse engineering, 🦠 malware analysis, and 💻 software development. Feel free to explore, contribute, or reach out!
+
+#👋 About Me
+
+Hi, I’m Kassam! I’m a 🧑‍💻 cybersecurity researcher, 🕵️‍♂️ ethical hacker, and 🛠 software developer passionate about ⚔️ offensive security, 🕶 digital forensics, 🤖 AI in cybersecurity, and 🌍 open-source contributions.
+
+This repository serves as a hub for my work, including 🛠 penetration testing tools, 🦠 malware analysis scripts, 🌐 network security research, and ⚙️ automation projects. I’m always open to collaboration, so feel free to connect! 🤝
 
 
 ## 🌐 Socials:
