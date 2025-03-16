@@ -10,13 +10,6 @@ Hi, I’m Kassam! I’m a 🧑‍💻 cybersecurity researcher, 🕵️‍♂️
 This repository serves as a hub for my work, including 🛠 penetration testing tools, 🦠 malware analysis scripts, 🌐 network security research, and ⚙️ automation projects. I’m always open to collaboration, so feel free to connect! 🤝
 
 
-
-
-
-# 💫 About Me:
-🌎 I'm from Palestine and currently living in Dubai, UAE.<br>🌱 I’m a computer engineering student 💻 at Ajman University 🎓.<br>👀 I’m interested in Networking 📡, Cybersecurity 🐱‍💻, and Hacking 👾.<br>💞️ I’m looking to collaborate with "Cisco," "Amazon," and "Google."
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zedx.___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kassam-dakhlalah-2b44bb207/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kassam.dakhlalah@outlook.com) 
 
