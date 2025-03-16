@@ -1,6 +1,7 @@
 # 🚀 Welcome to my GitHub repository!
 
-This space showcases my projects, contributions, and experiments in 🔐 cybersecurity, 🛡 ethical hacking, 🔎 reverse engineering, 🦠 malware analysis, and 💻 software development. Feel free to explore, contribute, or reach out!
+This space showcases my projects, contributions, and experiments in 🔐 cybersecurity, 🛡 ethical hacking, 🔎 reverse engineering, 🦠 malware analysis, and 💻 software development.
+
 
 #👋 About Me
 
