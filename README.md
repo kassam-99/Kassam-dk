@@ -42,6 +42,7 @@ This repository serves as a hub for my work, including 🛠 penetration testing 
 ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Cryptography](https://img.shields.io/badge/cryptography-%2300A0B0.svg?style=for-the-badge&logo=crypto&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kassam-99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
