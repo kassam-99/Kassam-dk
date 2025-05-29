@@ -1,13 +1,28 @@
 # 🚀 Welcome to my GitHub repository!
 
-This space showcases my projects, contributions, and experiments in 🔐 cybersecurity, 🛡 ethical hacking, 🔎 reverse engineering, 🦠 malware analysis, and 💻 software development.
+This space is dedicated to showcasing my diverse projects, contributions, and experiments spanning 🔐 cybersecurity, 🛡 ethical hacking, 🔎 reverse engineering, 🦠 malware analysis, 🤖 AI & robotics, and 💻 software development.
+
+Explore tools and research in offensive security, digital forensics, AI-driven cybersecurity, embedded systems, network defense, and automation—crafted with a passion for innovation and open-source collaboration.
+
+
 
 
 ## 👋 About Me
 
-Hi, I’m Kassam! I’m a 🧑‍💻 cybersecurity researcher, 🕵️‍♂️ ethical hacker, and 🛠 software developer passionate about ⚔️ offensive security, 🕶 digital forensics, 🤖 AI in cybersecurity, and 🌍 open-source contributions.
+Hi, I’m Kassam! I’m a 🧑‍💻 cybersecurity researcher, 🕵️‍♂️ ethical hacker, 🤖 AI & robotics enthusiast, and 🛠 software developer passionate about cutting-edge technology in offensive security, digital forensics, AI-driven cybersecurity, embedded systems, and open-source innovation.
 
-This repository serves as a hub for my work, including 🛠 penetration testing tools, 🦠 malware analysis scripts, 🌐 network security research, and ⚙️ automation projects. I’m always open to collaboration, so feel free to connect! 🤝
+My work spans across:
+
+- ⚔️ Offensive security and penetration testing using tools like Metasploit, Nmap, and Burp Suite  
+- 🔎 Reverse engineering and malware analysis for threat intelligence and defense  
+- 🦠 Malware analysis scripting and automation  
+- 🌐 Network security research including cryptography, firewall management, and SOC operations  
+- 🤖 AI & machine learning applied to robotics and cybersecurity, leveraging TensorFlow, PyTorch, and OpenCV  
+- ⚙️ Embedded systems and robotics development with Arduino, ESP32, Raspberry Pi, ROS, and sensor fusion  
+- 💻 Software development in Python, C/C++, Bash scripting, and automation frameworks  
+
+This repository is a hub for my projects—from penetration testing tools and malware analysis scripts to AI-driven robotics applications and automation workflows. I’m always eager to collaborate and push the boundaries of technology, so feel free to reach out! 🤝
+
 
 
 ## 🌐 Socials:
