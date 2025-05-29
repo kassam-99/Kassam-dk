@@ -29,7 +29,7 @@ This repository serves as a hub for my work, including 🛠 penetration testing 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
-### ⚙️ Embedded & 🤖 Robotics
+### ⚙️ Embedded & 🤖 Robotics  
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)  
 ![ESP32](https://img.shields.io/badge/ESP32-%23FF6F00.svg?style=for-the-badge&logo=espressif&logoColor=white)  
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
@@ -38,7 +38,7 @@ This repository serves as a hub for my work, including 🛠 penetration testing 
 ![IMU Sensors](https://img.shields.io/badge/IMU%20Sensors-%231F8EFA.svg?style=for-the-badge&logo=sensors&logoColor=white)  
 ![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-%2300A0B0.svg?style=for-the-badge&logo=sensors&logoColor=white)  
 ![ROS](https://img.shields.io/badge/ROS-%230A0A0A.svg?style=for-the-badge&logo=ros&logoColor=white)  
-![Robot Operating System 2 (ROS2)](https://img.shields.io/badge/ROS2-%23212121.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![ROS2](https://img.shields.io/badge/ROS2-%23212121.svg?style=for-the-badge&logo=ros&logoColor=white)  
 ![I2C/SPI Protocols](https://img.shields.io/badge/I2C%20%2F%20SPI-%234285F4.svg?style=for-the-badge&logo=protocols.io&logoColor=white)  
 ![Real-Time Control](https://img.shields.io/badge/Real--Time%20Control-%23232F3E.svg?style=for-the-badge&logo=clockify&logoColor=white)  
 ![PID Controller](https://img.shields.io/badge/PID%20Controller-%23E65100.svg?style=for-the-badge&logo=linear&logoColor=white)  
@@ -50,8 +50,9 @@ This repository serves as a hub for my work, including 🛠 penetration testing 
 ![PWM Control](https://img.shields.io/badge/PWM%20Control-%231B5E20.svg?style=for-the-badge&logo=signal&logoColor=white)  
 ![Serial Communication](https://img.shields.io/badge/Serial%20Comm-%23212121.svg?style=for-the-badge&logo=usb&logoColor=white)
 
+---
 
-### 🧠 AI & 🤖 Machine Learning
+### 🧠 AI & 🤖 Machine Learning  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
@@ -60,9 +61,9 @@ This repository serves as a hub for my work, including 🛠 penetration testing 
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)  
 ![OpenCV](https://img.shields.io/badge/OpenCV-%2300485F.svg?style=for-the-badge&logo=opencv&logoColor=white)  
 
+---
 
-### 🛡️ Cybersecurity & Networks
-
+### 🛡️ Cybersecurity & Networks  
 ![Wireshark](https://img.shields.io/badge/Wireshark-%231F69C4.svg?style=for-the-badge&logo=wireshark&logoColor=white)  
 ![Cryptography](https://img.shields.io/badge/Cryptography-%2300A0B0.svg?style=for-the-badge&logo=crypto&logoColor=white)  
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-%233232C2.svg?style=for-the-badge&logo=key&logoColor=white)  
@@ -84,18 +85,7 @@ This repository serves as a hub for my work, including 🛠 penetration testing 
 ![OSINT](https://img.shields.io/badge/OSINT-%23A020F0.svg?style=for-the-badge&logo=intelligence&logoColor=white)  
 ![Cyber Threat Intelligence](https://img.shields.io/badge/Cyber%20Threat%20Intel-%230087C5.svg?style=for-the-badge&logo=threat&logoColor=white)  
 ![Social Engineering](https://img.shields.io/badge/Social%20Engineering-%23F44336.svg?style=for-the-badge&logo=people&logoColor=white)  
-![Network Security](https://img.shields.io/badge/Network%20Security-%230075B5.svg?style=for-the-badge&logo=networkx&logoColor=white)  
-
-
-### 🔧 DevOps & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-
+![Network Security](https://img.shields.io/badge/Network%20Security-%230075B5.svg?style
 
 
 # 📊 GitHub Stats:
