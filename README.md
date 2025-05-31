@@ -81,3 +81,34 @@ This repository is a hub for my projects—from penetration testing tools and ma
 ---
 [![](https://visitcount.itsvg.in/api?id=kassam-99&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+
+# 🚀 Latest GitHub Projects Overview
+
+## 📂 Latest Repositories
+
+| Repository            | Description                                                                                              | Last Updated      | Visibility |
+|-----------------------|----------------------------------------------------------------------------------------------------------|-------------------|------------|
+| **[Kassam-dk](https://github.com/kassam-99/Kassam-dk)** | 🔐 Kassam's Cybersecurity & Software Development Hub                                                       | May 31, 2025      | Public     |
+| **[0xTheSpiderWeb](https://github.com/kassam-99/0xTheSpiderWeb)** | Spider recon framework for wireless signal analysis (Wi-Fi, Bluetooth, RF)                                 | May 18, 2025      | Private    |
+| **[CyberPulse-AI](https://github.com/kassam-99/CyberPulse-AI)** | ML project to classify Wi-Fi devices and analyze signal trends for penetration testing                     | May 2, 2025       | Public     |
+| **[NetForge](https://github.com/kassam-99/NetForge)** | Python framework for building networked apps with client-server communication and reporting                 | Mar 14, 2025      | Public     |
+| **[All_in_One_Server](https://github.com/kassam-99/All_in_One_Server)** | Unified server management and control framework                                                            | Jul 17, 2024      | Public     |
+| **[The-Matrix](https://github.com/kassam-99/The-Matrix)** | (Private)                                                                                                  | May 28, 2024      | Private    |
+| **[NetGaurdian](https://github.com/kassam-99/NetGaurdian)** | Network security & automation tool for discovery, scanning, monitoring, and reporting                       | May 28, 2024      | Public     |
+| **[Network-Analyzer](https://github.com/kassam-99/Network-Analyzer)** | Advanced network traffic analysis and anomaly detection                                                    | May 28, 2024      | Public     |
+| **[Port-Scanner](https://github.com/kassam-99/Port-Scanner)** | Extensive network scanning tool                                                                             | May 28, 2024      | Public     |
+| **[Discover](https://github.com/kassam-99/Discover)** | Identifying and mapping network devices and attributes                                                     | May 28, 2024      | Public     |
+| **[Simple-Chat-Python](https://github.com/kassam-99/Simple-Chat-Python)** | Basic Python client-server chat application                                                                | Feb 6, 2024       | Public     |
+| **[Group-Chat-Python](https://github.com/kassam-99/Group-Chat-Python)** | Python group chat over sockets with central server                                                         | Feb 6, 2024       | Public     |
+| **[Lora---C2](https://github.com/kassam-99/Lora---C2)** | (Private)                                                                                                  | Jan 31, 2024      | Private    |
+
+---
+
+### 👉 [Explore all repositories](https://github.com/kassam-99?tab=repositories)
+
+---
+
+*Made with 💻 and ☕ by Kassam Dakhlalah*  
+
