@@ -12,7 +12,7 @@ Hi, I’m Kassam! I’m a 🧑‍💻 Robotics & AI Developer, ⚙️ Embedded S
 
 My work spans across:
 
-- 🤖 **Embodied AI & Humanoid Robotics:** Programming and configuring advanced robotic systems (like the Unitree G1 and G1 EDU platforms), focusing on kinematic control and finite state machines.
+- 🤖 **Embodied AI & Humanoid Robotics:** Programming and configuring advanced robotic systems, focusing on kinematic control and finite state machines.
 - ⚙️ **Embedded Systems & Sensor Fusion:** Developing real-time firmware and sensor processing pipelines using Arduino, ESP32, Raspberry Pi, 3D LiDAR, and IMUs.
 - 🧠 **Computer Vision & Deep Learning:** Architecting vision workflows and integrating real-time object detection frameworks like YOLO with Vision-Language-Action models.
 - 🔧 **DevOps & Infrastructure:** Building production-grade deployment environments, managing isolated multi-robot communication (ROS 2), and containerizing software stacks using Docker.
